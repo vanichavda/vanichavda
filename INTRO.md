@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vanichavda
+- 👀 I’m interested in python, Excel, Data visualization (Tableau) and analytics
+- 🌱 I’m currently learning python for statistics and data visualization and analytics
+- 💞️ I’m looking to collaborate on data visualizing and data analytics
+- 📫 How to reach me: you can contect me via email: vaneechavda@gmail.com
